@@ -3,4 +3,4 @@ finders:
   - cyanite.CyaniteFinder
 cyanite:
   urls:
-    - http://10.254.50.89:8080
+    - http://cyanite:8080
