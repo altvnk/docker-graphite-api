@@ -1,0 +1,6 @@
+search_index: /srv/graphite/index
+finders:
+  - cyanite.CyaniteFinder
+cyanite:
+  urls:
+    - http://cyanite:8080
